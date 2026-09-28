@@ -1,13 +1,13 @@
 # Genelog - Projet Généalogie Familiale 🌳
 
-## Description 📖
+## Description 
 Genelog est un logiciel de gestion de généalogie familiale développé en **Python**.  
 Il permet de **créer, visualiser et gérer** l’arbre généalogique d’une famille, développée avec **Interface graphique (Tkinter)** conviviale pour une visualisation claire et interactive.  
 L’objectif est de fournir un outil **simple, intuitif et accessible**, même pour les utilisateurs non techniques.
 
 ---
 
-## Contexte et objectifs 🎯
+## Contexte et objectifs 
 - Centraliser les informations familiales (nom, prénom, date et lieu de naissance, liens familiaux...).  
 - Représenter les relations familiales pour **préserver l’histoire familiale**.  
 - Garantir la **sauvegarde et la confidentialité** des données.  
@@ -15,14 +15,14 @@ L’objectif est de fournir un outil **simple, intuitif et accessible**, même p
 
 ---
 
-## Fonctionnalités principales ✅
+## Fonctionnalités principales 
 - Création, gestion et suppression de **comptes utilisateurs**.  
 - Ajout, recherche et modification des **membres** de la famille.  
 - Définition des **relations** : parents, enfants, conjoints.  
 - Visualisation de l’arbre sous forme **textuelle ou graphique**.  
 - **Sauvegarde** des données dans SQLite.  
 
-### Problématiques à résoudre ⚠️
+### Problématiques à résoudre 
 - Ergonomie et simplicité de l’interface graphique.  
 - Organisation et gestion efficace des données.  
 - Performance avec de grands arbres familiaux.  
@@ -30,7 +30,7 @@ L’objectif est de fournir un outil **simple, intuitif et accessible**, même p
 
 ---
 
-## Fonctionnalités graphiques 🖥️
+## Fonctionnalités graphiques 
 - Formulaire de **connexion** et création de compte.  
 - **Boutons** pour ajouter, modifier ou rechercher un individu ou une famille.  
 - Gestion des relations : parent, enfant, conjoint.  
@@ -40,7 +40,7 @@ L’objectif est de fournir un outil **simple, intuitif et accessible**, même p
 ---
 
 
-## Classes principales 🏷️
+## Classes principales 
 
 ### Classe `Individu`
 - Chaque membre de la famille.  
@@ -62,12 +62,12 @@ L’objectif est de fournir un outil **simple, intuitif et accessible**, même p
 
 ---
 
-## Processus d’utilisation 🏃
-1. **Connexion / Création de compte / Mot de passe oublié** 🔑  
-2. **Page d’accueil** 🏠  
-3. **Ajout d’un individu ou d’une famille** ➕  
-4. **Recherche et modification** 🔍✏️  
-5. **Déconnexion et suppression de généalogie** 🚪❌
+## Processus d’utilisation 
+1. **Connexion / Création de compte / Mot de passe oublié** 
+2. **Page d’accueil** 
+3. **Ajout d’un individu ou d’une famille**
+4. **Recherche et modification**
+5. **Déconnexion et suppression de généalogie** 
 
 ---
 
@@ -104,33 +104,33 @@ PROJET_GENELOG
 
 ---
 
-## 🖼️ Aperçu
+## Aperçu
 
 <p align="center">
   <img src="https://github.com/Fatimatou-DIALLO-87/Genelog/blob/master/genelog.gif" width="500">
 </p>
 
-## Informations de test 🧪
+## Informations de test 
 - **Nom de la généalogie** : Diallo  
 - **Mot de passe** : Fatima@123
 
 ---
 
-## Perspectives d’évolution 🌟
-- Exportation de l’arbre en **PDF** 📄  
-- Ajout de **photos et documents** pour chaque individu 🖼️  
-- Notes biographiques et documents familiaux 📝  
-- Version **multi-utilisateurs** avec base centralisée 🌐
+## Perspectives d’évolution
+- Exportation de l’arbre en **PDF** 
+- Ajout de **photos et documents** pour chaque individu 
+- Notes biographiques et documents familiaux 
+- Version **multi-utilisateurs** avec base centralisée 
 
 ---
-## Technologies utilisées 🛠️
+## Technologies utilisées 
 - **Python** : logique et gestion des données.  
 - **Tkinter** : interface graphique.  
 - **SQLite** : stockage local et persistant.
 
 ---
 
-## Auteurs 👥
+## Auteurs 
 - Diallo Fatimatou  
 - Diallo Mamadou Talibe  
 - Baldé Alpha Oumar  
